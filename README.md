@@ -1,3 +1,5 @@
+![logo](https://github.com/Pramod0328/Pramod0328/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm PRAMOD</h1>
 <h3 align="center">"👋 Hello, I'm Pramod, a passionate front-end developer with a strong focus on creating elegant and intuitive user interfaces. Welcome to my GitHub profile</h3>
 
