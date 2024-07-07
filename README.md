@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fmedia%2F45dceb640723d72436c427add7966cf8.gif&f=1&nofb=1&ipt=aa188e3f682c2a9c367e0d4593601ac2f03390f634a6b5322264d301b176b530&ipo=images"/>
 - 🌱 I’m currently learning **HTML,Css, Javascript, React, Bootstarp, Git**
 
 - 📫 How to reach me **pramodacharya0815@gmail.com**
